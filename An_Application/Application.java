@@ -1,4 +1,4 @@
-// Sprint 2 - WEST Region Navigation Panel
+// sprint 2 - WEST Region Navigation Panel
 import javax.swing.*;
 import java.awt.*;
 
