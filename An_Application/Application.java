@@ -1,4 +1,6 @@
-// sprint 2 - WEST Region Navigation Panel
+// Sprint 3 - CENTER Region & Final Testing
+// JTextArea wrapped in JScrollPane
+// setVisible(true) and full application test
 import javax.swing.*;
 import java.awt.*;
 
