@@ -1,3 +1,5 @@
+// Sprint 2 - WEST Region Navigation Panel
+// JPanel with GridLayout and 3 buttons
 import javax.swing.*;
 import java.awt.*;
 
